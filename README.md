@@ -28,7 +28,7 @@ It's also writing documentations, comments and unit tests.
 
 ## 🎯 Objectives
 
-1. write the **README.md** and missing **comments** with JSDoc for the library [cash](./cash)
+1. write the **README.md** and missing **comments** (use JSDoc format) for the library [cash](./cash)
 2. write the **Unit Tests** for the library [starwars](/starwars)
 
 ## 👩‍💻 Just tell me what to do
@@ -80,7 +80,7 @@ Understand first the library features
 ```
 
 1. Complete the [cash/README.md](./cash/README.md) file with a complete description of installation, usage... of the library
-2. add JSDOC function block for the file [cash/bin/cash.js](./cash/bin/cash.js)
+2. Add block commments (use JSDoc format) for the file [cash/bin/cash.js](./cash/bin/cash.js)
 
 ### [starwars](./starwars): TDD
 
